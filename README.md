@@ -1,5 +1,6 @@
 # mtcnn-pytorch
-# [Descriptions in chinese]()
+# Descriptions in chinese
+  https://blog.csdn.net/Sierkinhane/article/details/83308658
 
 # results:
 
