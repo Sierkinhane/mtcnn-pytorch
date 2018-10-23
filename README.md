@@ -39,4 +39,4 @@
     * run > python mtcnn/train_net/train_o_net.py
     
  # Citation
-   This repository is based on [DFace](https://github.com/kuaikuaikim/DFace)
+   [DFace](https://github.com/kuaikuaikim/DFace)
