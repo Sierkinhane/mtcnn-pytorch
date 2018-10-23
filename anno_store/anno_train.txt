@@ -1,0 +1,308 @@
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_819.jpg 256 78 90 168 350 98 70 132 484 100 98 150 662 84 106 144 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_321.jpg 360 182 260 334 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_474.jpg 492 92 212 282 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_939.jpg 12 174 322 338 356 178 380 328 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_840.jpg 291 199 375 506 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_848.jpg 366 162 405 565 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_685.jpg 348 128 236 336 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_235.jpg 278 253 378 601 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_772.jpg 357 252 285 357 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_54.jpg 390 110 184 248 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_430.jpg 390 156 277 371 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_507.jpg 291 148 451 605 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_38.jpg 114 200 44 59 233 228 41 51 319 250 42 57 377 178 42 62 482 231 41 52 570 232 38 54 657 231 38 51 770 265 40 50 878 210 45 57 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_149.jpg 427 291 276 363 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_682.jpg 351 162 237 360 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_341.jpg 381 303 312 414 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_11.jpg 277 212 17 18 342 197 18 20 407 186 19 25 705 187 14 20 638 183 12 18 591 187 14 20 550 186 19 22 473 166 18 19 942 154 14 21 913 156 17 23 857 160 17 21 983 236 18 24 914 240 19 25 1006 275 18 46 846 234 21 31 804 212 19 27 848 263 26 32 892 313 32 52 641 300 17 40 554 321 36 54 727 362 38 71 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_821.jpg 176 304 158 180 412 136 164 204 498 414 168 192 692 166 178 206 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_190.jpg 112 274 31 41 244 244 24 28 332 244 24 28 250 289 26 31 371 268 30 39 438 238 22 30 535 237 21 28 501 273 29 40 636 230 20 27 644 267 30 43 720 240 22 23 772 275 29 37 802 256 22 22 905 277 29 37 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_622.jpg 205 120 434 620 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_631.jpg 299 205 471 740 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_804.jpg 235 252 428 570 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_19.jpg 313 191 238 279 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_427.jpg 354 204 249 288 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_801.jpg 375 246 333 450 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_620.jpg 410 192 233 285 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_481.jpg 158 52 87 127 374 191 82 113 548 191 82 106 824 137 82 115 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_600.jpg 364 217 223 253 672 241 114 217 858 364 99 247 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_731.jpg 261 197 313 418 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_709.jpg 416 250 440 590 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_454.jpg 344 244 293 417 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_697.jpg 157 258 569 778 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_643.jpg 234 110 190 278 70 208 110 178 448 470 82 134 830 162 182 230 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_845.jpg 342 212 302 422 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_47.jpg 771 124 43 70 437 187 36 53 306 175 37 46 180 183 32 46 568 138 32 41 399 137 30 38 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_800.jpg 319 207 470 643 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_654.jpg 448 125 122 173 299 224 104 212 627 263 81 164 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_306.jpg 432 159 169 212 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_76.jpg 406 140 178 264 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_902.jpg 321 207 399 616 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_58.jpg 496 296 42 61 252 285 44 65 105 292 46 66 942 333 37 52 778 343 35 46 643 308 40 58 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_301.jpg 439 319 242 331 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_530.jpg 83 243 40 58 244 232 28 39 336 243 25 32 431 210 26 38 543 217 29 36 670 214 27 30 790 195 30 38 970 228 27 57 235 118 21 23 298 156 15 19 359 130 25 28 484 138 18 21 427 173 13 14 358 207 10 8 625 105 18 26 561 163 13 15 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_946.jpg 333 175 368 519 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_795.jpg 392 304 346 455 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_884.jpg 319 201 449 647 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_329.jpg 407 207 215 316 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_91.jpg 772 153 51 63 485 139 48 70 162 148 50 69 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_651.jpg 361 271 304 389 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_742.jpg 179 204 560 727 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_16.jpg 358 124 154 236 560 90 134 204 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_918.jpg 338 236 352 436 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_254.jpg 253 294 495 644 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_162.jpg 72 212 92 104 406 188 92 134 826 240 108 134 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_644.jpg 343 130 214 331 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_339.jpg 210 330 507 769 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_628.jpg 454 248 194 320 642 110 270 322 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_433.jpg 411 217 279 390 7 242 99 208 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_319.jpg 424 140 212 310 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_599.jpg 329 111 271 332 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_665.jpg 373 270 455 588 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_927.jpg 336 219 399 562 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_524.jpg 249 95 451 614 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_97.jpg 47 79 15 16 229 153 30 39 315 123 20 29 368 169 29 28 415 174 26 49 426 129 27 34 489 179 29 33 525 138 27 26 608 127 9 12 593 163 29 32 605 198 21 37 652 153 22 29 709 140 24 28 741 186 33 36 868 167 27 37 0 150 13 33 0 80 7 15 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_789.jpg 418 223 177 252 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_51.jpg 373 324 14 20 298 330 14 19 249 324 13 20 172 340 15 19 89 336 14 19 687 341 15 22 627 340 13 20 567 327 15 21 499 327 14 19 764 347 15 23 799 353 21 27 827 354 22 30 873 373 20 29 888 385 30 35 863 418 34 54 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_782.jpg 324 198 554 772 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_816.jpg 469 182 267 353 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_846.jpg 291 132 399 598 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_374.jpg 264 150 426 586 583 369 282 538 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_179.jpg 66 124 72 112 178 108 82 110 380 152 68 86 520 188 74 106 560 148 58 84 800 166 70 78 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_587.jpg 423 180 162 225 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_287.jpg 650 114 162 214 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_116.jpg 190 135 24 34 250 245 7 7 235 260 8 8 152 232 13 17 297 243 7 7 282 272 7 7 344 265 8 9 361 244 5 9 353 298 9 12 384 265 6 7 417 270 10 11 401 243 5 6 432 263 5 7 394 260 7 12 539 269 9 13 507 267 10 13 573 269 11 11 560 267 10 10 544 236 8 9 509 238 7 9 466 236 5 7 592 244 6 6 545 260 8 11 409 255 6 9 604 243 6 8 652 278 12 14 663 235 6 10 621 268 7 8 693 266 11 14 691 277 20 38 736 402 18 32 791 331 24 19 820 286 18 17 779 270 12 19 722 265 15 17 805 267 10 15 794 265 9 10 862 266 11 14 900 279 19 21 901 264 13 17 941 279 13 14 920 229 10 11 844 211 13 10 939 194 11 13 987 223 10 15 997 281 17 22 707 237 6 8 752 231 8 11 11 242 9 9 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_630.jpg 340 265 322 390 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_448.jpg 370 134 308 408 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_199.jpg 318 355 180 249 588 7 111 125 812 816 90 148 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_817.jpg 389 186 257 369 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_384.jpg 337 252 355 484 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_525.jpg 391 191 299 434 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_635.jpg 334 168 339 429 749 121 185 353 121 258 199 328 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_637.jpg 327 252 397 579 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_327.jpg 518 170 332 410 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_28.jpg 909 316 45 53 941 274 25 48 747 229 14 25 824 231 15 23 860 237 11 20 870 216 13 17 573 281 13 16 203 536 45 36 32 237 26 36 139 230 15 29 175 267 20 25 249 274 20 41 332 247 21 30 302 224 13 25 274 222 14 19 382 240 10 17 433 228 13 15 391 209 8 12 412 217 10 19 421 212 9 14 504 199 9 13 439 210 6 13 450 205 7 9 456 207 5 12 484 196 4 8 518 197 6 9 725 207 10 14 713 210 9 13 570 194 4 6 790 214 7 13 805 230 13 17 846 194 6 9 637 262 14 23 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_506.jpg 208 102 110 152 500 78 120 160 732 126 102 142 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_475.jpg 393 167 330 429 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_617.jpg 387 141 183 261 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_629.jpg 318 231 408 547 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_303.jpg 114 168 89 112 517 184 13 15 545 230 17 18 758 191 14 19 878 206 12 17 987 185 11 19 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_347.jpg 400 148 132 190 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_350.jpg 364 343 364 439 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_639.jpg 374 184 246 332 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_736.jpg 300 414 426 607 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_647.jpg 367 80 47 67 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_579.jpg 264 216 130 162 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_226.jpg 332 158 256 360 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_839.jpg 369 258 231 318 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_389.jpg 339 134 114 150 548 95 130 170 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_428.jpg 324 156 320 356 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_555.jpg 190 188 386 498 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_26.jpg 75 310 26 31 187 320 30 35 255 307 29 33 355 320 30 34 501 298 30 42 644 297 27 41 759 299 36 43 923 274 39 54 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_102.jpg 285 118 28 27 172 198 49 59 554 118 24 29 603 117 24 33 645 125 25 28 694 94 25 35 740 98 20 35 819 105 31 37 942 81 27 45 647 245 27 33 694 269 24 32 707 288 37 52 863 361 53 72 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_815.jpg 357 192 283 392 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_523.jpg 235 346 425 581 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_381.jpg 456 108 168 234 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_703.jpg 218 81 89 132 417 67 99 132 685 91 105 124 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_737.jpg 312 192 479 642 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_174.jpg 551 169 120 187 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_740.jpg 416 116 250 317 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_320.jpg 334 116 310 428 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_903.jpg 213 322 446 515 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_356.jpg 312 297 332 478 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_598.jpg 199 187 40 58 59 265 25 41 281 217 26 44 360 202 31 48 496 277 28 47 626 189 29 49 917 198 41 65 819 198 30 52 801 208 36 60 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_750.jpg 292 239 319 407 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_659.jpg 483 195 252 348 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_657.jpg 128 290 28 45 543 409 10 11 553 403 9 12 560 397 11 14 573 405 9 12 617 393 16 18 669 392 13 19 700 372 16 25 727 377 20 26 792 378 16 21 865 356 20 29 985 383 13 15 1000 350 18 27 311 315 11 18 692 367 9 11 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_937.jpg 267 257 415 567 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_377.jpg 486 108 136 224 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_118.jpg 122 397 35 38 255 383 43 42 443 391 44 51 610 362 42 55 787 378 38 53 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_144.jpg 316 120 292 374 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_923.jpg 164 122 90 138 380 104 82 122 556 104 92 130 742 110 104 134 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_720.jpg 320 248 362 489 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_854.jpg 362 101 263 391 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_588.jpg 403 110 275 349 137 388 72 87 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_868.jpg 308 175 350 492 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_625.jpg 324 205 437 564 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_677.jpg 144 270 461 623 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_49.jpg 613 406 37 65 676 397 47 54 729 364 39 54 780 375 27 38 474 455 41 95 172 427 36 62 193 367 36 47 348 397 21 46 426 398 24 36 504 383 25 38 196 324 12 19 108 316 10 17 85 295 11 12 40 288 11 13 3 289 13 12 27 325 23 26 54 322 14 13 148 330 10 17 189 309 9 13 270 279 9 13 304 325 9 15 332 320 10 17 353 311 11 15 369 309 8 12 419 281 6 13 397 318 9 13 331 343 20 27 433 320 9 17 464 315 11 20 477 330 12 17 497 313 10 13 512 308 8 10 539 307 8 11 574 322 12 15 500 346 13 22 597 323 17 23 636 327 13 22 469 284 6 10 695 347 22 36 702 320 12 19 644 314 8 11 618 320 6 10 922 341 24 35 943 339 19 26 974 323 20 25 990 326 9 20 998 327 10 20 874 322 16 24 897 322 13 22 826 323 13 19 840 321 12 13 571 349 31 38 635 352 24 32 814 349 29 41 130 340 20 30 228 349 24 31 398 349 23 33 470 349 17 32 532 335 24 30 53 352 35 46 85 337 31 35 232 318 18 18 265 331 16 22 245 282 9 12 207 337 13 20 215 325 10 13 747 316 17 22 784 327 12 27 794 331 10 29 664 314 10 20 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_230.jpg 361 184 333 465 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_624.jpg 409 158 325 528 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_856.jpg 293 214 442 559 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_669.jpg 398 229 331 449 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_671.jpg 228 225 429 628 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_670.jpg 169 341 767 1014 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_900.jpg 86 220 36 47 214 226 33 45 356 214 29 45 706 242 39 50 797 276 29 50 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_708.jpg 312 228 402 507 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_94.jpg 789 357 35 46 643 348 33 41 514 361 30 38 403 351 30 38 272 363 29 36 184 363 30 36 66 353 34 42 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_773.jpg 394 148 272 332 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_713.jpg 342 180 234 312 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_470.jpg 345 336 28 34 532 377 20 27 667 386 21 25 742 397 20 23 829 393 24 29 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_313.jpg 303 297 384 538 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_178.jpg 64 210 122 156 150 186 104 150 430 244 94 138 522 194 140 218 632 278 92 128 840 236 84 130 878 184 114 202 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_36.jpg 404 144 192 284 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_869.jpg 422 80 132 200 790 4 124 122 54 520 258 122 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_457.jpg 326 417 323 393 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_739.jpg 286 186 415 612 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_806.jpg 401 185 279 406 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_395.jpg 402 198 364 506 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_908.jpg 429 149 250 329 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_277.jpg 342 379 12 18 362 393 16 14 439 385 20 26 430 383 14 19 385 362 8 18 399 371 5 16 409 378 7 16 569 352 20 29 778 192 64 78 646 313 34 42 605 331 28 40 15 362 11 9 152 408 17 12 173 405 20 23 191 412 23 31 273 418 28 37 331 420 35 45 312 381 10 15 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_112.jpg 178 361 649 875 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_127.jpg 208 118 96 110 90 48 212 238 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_943.jpg 413 122 214 297 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_145.jpg 317 263 323 431 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_676.jpg 317 75 56 74 464 52 63 77 618 96 60 66 707 25 60 84 205 36 61 80 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_191.jpg 302 320 314 447 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_302.jpg 335 125 254 344 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_308.jpg 410 126 237 335 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_798.jpg 301 249 424 546 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_509.jpg 318 261 376 502 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_727.jpg 444 154 138 156 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_400.jpg 368 135 240 314 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_752.jpg 217 297 121 139 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_126.jpg 140 140 57 72 269 202 44 60 431 237 37 52 547 216 40 55 626 261 30 41 713 270 30 41 826 267 34 38 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_803.jpg 352 188 226 314 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_811.jpg 297 303 459 616 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_153.jpg 145 237 645 868 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_944.jpg 68 32 446 530 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_379.jpg 426 158 318 420 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_719.jpg 393 321 315 435 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_469.jpg 419 461 238 313 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_309.jpg 672 116 70 96 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_753.jpg 381 227 319 470 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_420.jpg 350 118 252 328 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_696.jpg 232 34 62 72 714 36 70 94 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_855.jpg 326 118 284 428 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_369.jpg 450 78 248 376 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_70.jpg 412 126 250 352 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_83.jpg 290 162 57 82 106 222 54 73 352 219 41 55 397 270 44 61 525 230 42 64 846 299 26 32 1004 253 20 52 897 277 33 52 703 282 31 51 789 317 19 44 452 152 94 125 910 224 63 83 726 272 50 66 631 249 41 54 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_487.jpg 364 108 254 350 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_477.jpg 276 246 312 417 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_388.jpg 255 231 432 580 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_417.jpg 404 162 242 298 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_770.jpg 207 174 570 631 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_864.jpg 52 138 162 202 446 206 138 202 584 162 146 200 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_88.jpg 523 147 241 352 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_591.jpg 473 131 32 50 759 267 10 14 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_67.jpg 504 102 190 276 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_9.jpg 738 18 70 108 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_33.jpg 646 476 63 78 843 393 45 63 977 401 34 42 437 399 49 56 307 422 51 64 173 522 107 145 124 422 61 85 726 370 15 36 656 399 16 35 797 245 25 31 885 212 24 34 602 182 8 8 275 237 42 52 138 237 35 48 332 105 25 32 415 220 36 48 543 386 12 20 402 186 18 28 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_919.jpg 341 236 387 535 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_6.jpg 578 204 158 233 370 142 31 28 326 111 36 43 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_626.jpg 420 345 300 474 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_857.jpg 318 200 393 587 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_239.jpg 368 322 472 625 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_205.jpg 296 122 100 144 754 238 66 118 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_640.jpg 206 336 35 45 514 349 32 43 657 11 151 219 307 121 239 470 796 295 38 52 952 168 72 92 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_115.jpg 490 74 160 240 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_68.jpg 182 163 44 60 830 256 39 60 375 398 38 50 417 396 35 38 473 399 26 37 631 389 32 41 772 398 35 47 718 390 39 53 603 391 24 36 644 253 23 25 549 225 19 31 678 364 17 26 976 290 22 29 981 381 31 40 83 422 27 37 4 417 29 43 18 311 27 37 534 402 30 36 402 320 23 28 598 323 23 29 499 305 23 24 531 341 15 19 827 302 17 28 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_466.jpg 159 360 604 835 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_331.jpg 192 245 603 815 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_422.jpg 48 44 440 604 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_232.jpg 456 84 176 256 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_502.jpg 355 191 430 591 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_515.jpg 404 292 286 392 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_272.jpg 278 227 430 612 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_121.jpg 338 72 134 160 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_653.jpg 334 140 290 427 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_829.jpg 276 183 162 195 661 153 165 207 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_490.jpg 308 219 287 341 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_722.jpg 420 195 277 392 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_250.jpg 360 132 165 248 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_863.jpg 120 343 503 693 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_493.jpg 283 428 497 629 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_392.jpg 93 197 43 52 189 162 46 59 304 168 44 65 277 170 13 14 138 191 17 18 30 128 14 16 49 152 16 14 258 104 12 16 320 115 12 16 296 131 17 17 266 138 12 14 237 144 13 17 351 133 15 16 117 116 16 17 218 100 14 17 295 100 13 20 418 87 10 13 516 111 12 14 473 129 10 15 433 134 42 57 494 138 14 16 570 110 10 15 565 136 13 16 593 130 13 16 624 109 9 15 619 171 13 17 588 213 14 15 546 189 41 54 643 199 37 46 736 200 13 14 723 176 12 16 758 180 47 58 820 189 38 53 902 210 43 46 954 231 7 11 681 151 9 15 593 101 12 14 234 61 12 14 654 144 13 19 619 154 12 15 3 153 8 17 143 152 17 20 160 113 15 21 166 78 16 22 80 101 16 21 50 120 17 19 202 118 18 18 252 178 18 22 376 112 11 18 364 187 15 19 505 159 12 16 546 130 13 18 523 186 11 18 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_170.jpg 346 434 322 398 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_807.jpg 297 206 417 562 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_156.jpg 321 197 266 319 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_323.jpg 377 281 231 287 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_514.jpg 435 171 159 213 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_873.jpg 333 227 274 386 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_229.jpg 276 148 464 628 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_495.jpg 185 49 52 68 301 72 51 66 446 129 47 54 574 124 48 49 709 73 50 64 875 91 49 59 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_604.jpg 115 119 85 122 385 142 81 118 621 103 97 122 882 166 85 113 685 169 59 92 981 246 43 113 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_928.jpg 276 217 459 641 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_286.jpg 336 255 312 460 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_692.jpg 232 94 230 304 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_177.jpg 401 108 254 364 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_529.jpg 152 313 76 173 427 97 152 225 810 354 91 129 913 240 73 117 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_394.jpg 182 370 443 634 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_581.jpg 280 260 335 481 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_151.jpg 284 86 202 272 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_901.jpg 336 172 360 468 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_24.jpg 353 321 43 59 555 315 45 59 754 327 42 55 936 327 45 57 164 303 43 63 951 224 39 45 855 244 33 43 755 219 34 39 648 195 29 43 579 218 34 46 466 179 33 53 355 208 34 47 265 205 31 46 170 208 36 47 33 186 41 49 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_10.jpg 491 302 106 156 184 365 68 82 147 216 69 75 1 299 31 73 328 222 58 74 398 283 41 56 564 273 36 58 736 290 46 57 794 345 104 129 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_247.jpg 427 46 141 194 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_851.jpg 281 244 150 207 542 125 167 230 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_935.jpg 224 314 441 541 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_564.jpg 311 238 449 634 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_898.jpg 267 326 523 667 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_592.jpg 78 255 398 518 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_22.jpg 698 313 27 37 498 319 27 38 304 311 26 38 143 296 33 43 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_460.jpg 11 400 93 194 225 487 101 134 307 57 323 455 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_154.jpg 114 238 72 106 342 242 74 106 566 164 86 128 844 180 90 138 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_894.jpg 267 175 201 276 634 159 171 192 898 189 79 138 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_895.jpg 284 86 228 300 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_568.jpg 282 234 492 595 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_546.jpg 398 156 222 311 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_176.jpg 235 133 274 389 653 382 194 253 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_107.jpg 307 172 284 438 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_284.jpg 240 249 527 635 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_578.jpg 206 6 600 634 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_491.jpg 385 221 297 406 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_836.jpg 440 92 100 90 644 174 70 100 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_290.jpg 351 143 387 567 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_73.jpg 338 296 395 569 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_365.jpg 144 420 80 86 456 382 74 100 830 390 74 98 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_608.jpg 354 360 390 553 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_194.jpg 284 154 314 394 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_892.jpg 254 305 468 686 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_92.jpg 672 233 19 26 570 231 20 31 453 227 23 33 333 222 25 33 149 168 32 39 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_101.jpg 462 72 94 148 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_566.jpg 303 288 312 360 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_583.jpg 389 157 203 283 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_684.jpg 384 77 217 320 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_723.jpg 170 142 342 438 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_146.jpg 448 198 160 212 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_273.jpg 297 105 351 514 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_734.jpg 426 280 220 315 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_879.jpg 351 223 376 606 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_745.jpg 420 357 300 450 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_627.jpg 267 593 125 142 504 263 138 207 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_463.jpg 502 98 168 194 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_668.jpg 393 162 255 378 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_139.jpg 246 240 411 549 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_355.jpg 64 64 98 122 276 76 84 82 432 146 94 94 628 74 144 164 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_537.jpg 355 209 487 660 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_260.jpg 314 178 52 84 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_834.jpg 396 246 153 195 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_471.jpg 176 268 42 54 401 264 47 56 306 219 89 114 420 102 39 49 317 84 45 48 92 154 35 35 36 360 41 58 123 438 50 65 83 513 50 64 15 208 25 61 63 350 28 37 634 90 39 58 676 76 35 47 762 59 36 43 878 53 43 48 998 422 25 65 247 91 22 31 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_844.jpg 333 240 441 661 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_678.jpg 358 85 298 401 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_664.jpg 357 346 307 399 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_550.jpg 333 191 307 420 45 39 976 1113 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_642.jpg 208 38 58 84 656 76 170 238 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_516.jpg 349 178 208 280 849 343 75 87 295 307 54 81 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_616.jpg 189 246 634 808 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_554.jpg 496 164 278 420 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_761.jpg 297 272 416 628 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_117.jpg 238 303 34 40 347 305 33 38 412 288 33 43 501 292 41 51 632 306 45 52 747 278 43 56 603 405 49 71 431 407 38 64 191 398 53 72 77 390 37 63 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_364.jpg 256 214 160 218 726 104 100 86 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_921.jpg 428 92 192 264 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_826.jpg 387 264 378 535 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_404.jpg 408 182 158 226 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_281.jpg 260 126 282 378 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_878.jpg 208 186 480 582 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_623.jpg 336 372 276 357 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_861.jpg 337 296 408 570 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_358.jpg 256 195 243 355 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_940.jpg 390 170 252 380 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_893.jpg 222 26 578 742 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_925.jpg 345 171 255 325 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_472.jpg 322 253 358 418 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_614.jpg 462 140 264 362 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_791.jpg 362 108 214 277 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_280.jpg 495 222 165 222 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_131.jpg 244 46 510 614 
+./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_266.jpg 400 150 208 290 

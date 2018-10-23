@@ -1,0 +1,1 @@
+store the train data for pnet(positive, negative, part)
