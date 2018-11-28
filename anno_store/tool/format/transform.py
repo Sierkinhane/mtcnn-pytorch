@@ -1,7 +1,7 @@
 import os
 import sys
 sys.path.append(os.getcwd())
-from mtcnn.data_preprocess.widerface_annotation_gen.wider_loader import WIDER
+from wider_loader import WIDER
 import cv2
 import time
 
