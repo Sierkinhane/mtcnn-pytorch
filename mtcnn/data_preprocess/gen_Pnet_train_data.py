@@ -11,7 +11,7 @@ import numpy as np
 from mtcnn.data_preprocess.utils import IoU
 
 prefix = ''
-anno_file = "./anno_store/anno_train_test.txt"
+anno_file = "./anno_store/anno_train.txt"
 im_dir = "./data_set/face_detection/WIDERFACE/WIDER_train/WIDER_train/images"
 pos_save_dir = "./data_set/train/12/positive"
 part_save_dir = "./data_set/train/12/part"
